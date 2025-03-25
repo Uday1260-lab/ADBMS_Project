@@ -1,0 +1,31 @@
+http://localhost/vpms
+
+Admin: http://localhost/vpms/admin/index.php
+***************Admin Credential***************
+Username: admin
+Password: Test@123
+
+
+
+User: http://localhost/vpms/users/login.php
+***************User Credential***************
+Username: 1234567890
+Password: Test@123
+
+
+        <header class="masthead bg-primary text-white text-center">
+            <div class="container d-flex align-items-center flex-column">
+                <!-- Masthead Avatar Image-->
+                <img class="masthead-avatar mb-5" src="assets/img/images.jpg" alt="..." />
+                <!-- Masthead Heading-->
+                <h1 class="masthead-heading text-uppercase mb-0">Vehicle Parking Management System</h1>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- Masthead Subheading-->
+               
+            </div>
+        </header>
